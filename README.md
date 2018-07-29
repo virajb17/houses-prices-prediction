@@ -1,1 +1,1 @@
-# houses-prices-prediction
+# predicting-house-prices-lowa
